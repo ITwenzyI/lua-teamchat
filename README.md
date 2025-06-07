@@ -22,4 +22,4 @@ A lightweight ESX-based team chat system for staff communication on FiveM server
 - Optional: Client-side UI/notifications for displaying messages
 
 ## Author
-**Kilian**
+**Kilian** — Student of Medical Informatics
